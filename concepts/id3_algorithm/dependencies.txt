@@ -1,0 +1,4 @@
+tag: decision_trees
+
+tag: information_gain
+reason: Used as attribute selection measure.
