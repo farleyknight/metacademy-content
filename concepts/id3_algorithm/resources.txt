@@ -1,0 +1,3 @@
+source: han_kamber_2nd_ed
+location: Section 6.3, "Classification by Decision Tree Induction", pages 297-300
+core: 1
